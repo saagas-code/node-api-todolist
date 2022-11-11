@@ -23,8 +23,8 @@ JWT_SECRET_KEY=
 ```
 **3 -** Rodar comandos no Terminal:
 ```sh
-$ npm install
-$ npm run start-dev
+npm install
+npm run start-dev
 ```
 
 ### License
