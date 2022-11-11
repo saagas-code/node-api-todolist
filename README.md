@@ -13,9 +13,13 @@ API Desenvolvida para servir de Back-END do projeto [todolist](https://github.co
 ## Instalação
 **1 -** Criar arquivo .env e setar variáveis:
 ```sh
-$ PORT
-$ MONGO_URL
-$ JWT_SECRET_KEY
+PORT=
+DATABASE_HOST=
+MYSQL_DB=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_PORT=
+JWT_SECRET_KEY=
 ```
 **3 -** Rodar comandos no Terminal:
 ```sh
