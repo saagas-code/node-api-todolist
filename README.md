@@ -1,10 +1,27 @@
-Arquivos do módulo inicial de Node + Typescript, da estrutura MVC aplicada.
+<h1 align="center">API todolist</h1>
 
-### Pré-requisitos globais:
-`npm i -g nodemon typescript ts-node`
+## Sobre 💻
+API Desenvolvida para servir de Back-END do projeto [todolist](https://github.com/saagas-code/ReactJS-todoList) construída em padrão RESTful e organização MVC
 
-### Instalação
-`npm install`
+## Tecnologias utilizadas:
 
-### Para rodar o projeto
-`npm run start-dev`
+- Sequelize
+- Typescript
+- Express
+- Passport JWT
+
+## Instalação
+**1 -** Criar arquivo .env e setar variáveis:
+```sh
+$ PORT
+$ MONGO_URL
+$ JWT_SECRET_KEY
+```
+**3 -** Rodar comandos no Terminal:
+```sh
+$ npm install
+$ npm run start-dev
+```
+
+### License
+© [SaagaS](https://github.com/SaagaS0)
